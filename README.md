@@ -7,7 +7,7 @@ Future Machine Learning Engineer | Learning ML & Data Analysis
 # Current Focus
 Learning MLOPS
 
-Practicing END TO END ML PROJECTS WITH DEPLOYMENT
+Practicing END TO END ML PROJECTS WITH MLOPS DEPLOYMENT
 
 MAKING APIS
 
