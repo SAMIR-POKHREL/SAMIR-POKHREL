@@ -5,9 +5,9 @@ I’m passionate about Machine Learning and Data Analysis and love learning by d
 Future Machine Learning Engineer | Learning ML & Data Analysis
 
 # Current Focus
-Learning MLOPS
+Learning MLOPS,AI Engineering 
 
-Practicing END TO END ML PROJECTS WITH MLOPS DEPLOYMENT
+Learning Ai engineering concepts with code implementation
 
 MAKING APIS
 
